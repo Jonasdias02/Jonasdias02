@@ -1,6 +1,6 @@
 ## Oiii eu sou a  Jonas Dias, estudante de programação e tecnologia!
 
-- 🌱 Estudando Java
+- 🌱 Estudando Programação
 - 📫 contate-me no email: jonasdanova@gmail.com
 
 <picture>
